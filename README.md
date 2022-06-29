@@ -1,5 +1,10 @@
 # movies-vue
 
+## Set the .ENV variables
+
+Copy `.env.example` file and rename the copy to `.env.local`
+Setup the env variables inside the `.env.local` file
+
 ## Project setup
 ```
 npm install
