@@ -37,3 +37,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### App runing on
+[https://movies-vue1.herokuapp.com/](https://movies-vue1.herokuapp.com/)
