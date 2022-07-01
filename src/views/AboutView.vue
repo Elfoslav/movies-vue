@@ -18,7 +18,7 @@
 
     <p>
       You can see the code on my
-      <a href="https://github.com/Elfoslav" target="_blank">Github</a>.
+      <a href="https://github.com/Elfoslav/movies-vue" target="_blank">Github</a>.
     </p>
   </v-container>
 </template>
